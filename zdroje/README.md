@@ -21,7 +21,7 @@
  - LEVEL Podcast 04: Adventury, naše láska... - https://www.youtube.com/watch?v=bx5bp7KCvvI
 - Jakub Dvorský: Machinarium Postmortem - https://www.youtube.com/watch?v=xD5K6LM407s
 Přednáška zakladatele studia Amanita Design o vzniku legendární české adventury Machinarium (2009), herním designu, kreativním procesu a budoucnosti vývoje her.
-
+- MgA. Jakub Dvorský (výtvarník, kreslíř a tvůrce počítačových her) - https://www.youtube.com/watch?v=vQSI-M2PXeg
 - Jak napsat skvělý příběh pro počítačovou hru - https://www.youtube.com/watch?v=IYnIFWcpliM
 - Jak může návrh úrovní/levelů vyprávět příběh - https://www.youtube.com/watch?v=RwlnCn2EB9o
 
