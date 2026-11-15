@@ -9,6 +9,8 @@
 - Hádanky: Dobrý rébus přináší uspokojení, špatný pouze frustraci.
 - Humor: Adventury umožňují výborně pracovat s dialogy, vizuálními vtipy a reakcemi hlavního hrdiny.
 - Vlastní tempo: Hráč nemusí spěchat, bojovat ani mít rychlé reflexy.
+- Kvalitní adventuru nedělá počet lokací, množství dialogů ani složitost hádanek, ale schopnost vytvořit zajímavý svět, který hráč rád objevuje.
+- Hra by měla s hráčem komunikovat. Každé kliknutí, pokus o interakci nebo neúspěšné řešení může být příležitostí pro humor, nápovědu či rozvíjení charakteru hlavní postavy
 
 ## Jak správně navrhovat adventury?
 - Vyhnout se nelogickým kombinacím předmětů. Staré adventury často uměle prodlužovaly herní dobu nesmyslnými hádankami.
